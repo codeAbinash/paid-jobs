@@ -1,0 +1,7 @@
+/tmp
+**.exe
+**.zip
+test.js
+*test.js
+**/tmp
+**/test.**
